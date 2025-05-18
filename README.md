@@ -34,11 +34,6 @@ PuLP / SciPy (Optimization)
 Jupyter Notebook / Streamlit (UI, optional)
 
 
-Installation
-
-git clone https://github.com/yourusername/energy-efficiency-optimization.git
-cd energy-efficiency-optimization
-pip install -r requirements.txt
 
 Usage
 
